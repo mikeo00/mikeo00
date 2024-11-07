@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any university project
 - 📫 How to reach me:
 - email: mickelosta71@gmail.com
-- instagram: michael_osta
+- instagram: https://www.instagram.com/michael_osta/
 
 <!---
 mikeo00/mikeo00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
