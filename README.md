@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m michael osta<br>👀 I’m interested in software engineering and AI<br>🌱 I’m currently learning computer science<br>💞️ I’m looking to collaborate on any university project and start-ups
+👋 Hi, I’m michael osta<br>👀 I’m interested in software engineering and AI<br>🌱 I’m currently learning computer science<br>🔍I’m looking to collaborate on any university project and start-ups
 
 
 ## 🌐 Socials:
